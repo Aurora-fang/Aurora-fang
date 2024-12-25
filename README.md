@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋,I'm Aurora-fang,a student in the department of Agriculture Engineering.
+- 🧐 I'm currently researching on Harvesting robotics for grapes
+- 🔭 I’m currently working on Computer Vision
+- 🌱 I’m currently learning Semantic Segmentation and ROS
+- 🏫 I’m currently searching for school to do my phd in 2026 fall
+- 📖 I’m currently searching for opportunity to be a visiting student
+- 📫 How to reach me:fang1023945483@gmail.com
+
+
 
 <!--
 **Aurora-fang/Aurora-fang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
